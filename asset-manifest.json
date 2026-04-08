@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bulk-positron-lifetimes/static/css/main.f855e6bc.css",
+    "main.js": "/bulk-positron-lifetimes/static/js/main.b727f855.js",
+    "static/js/453.9b0520cc.chunk.js": "/bulk-positron-lifetimes/static/js/453.9b0520cc.chunk.js",
+    "static/media/logo.svg": "/bulk-positron-lifetimes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bulk-positron-lifetimes/index.html",
+    "main.f855e6bc.css.map": "/bulk-positron-lifetimes/static/css/main.f855e6bc.css.map",
+    "main.b727f855.js.map": "/bulk-positron-lifetimes/static/js/main.b727f855.js.map",
+    "453.9b0520cc.chunk.js.map": "/bulk-positron-lifetimes/static/js/453.9b0520cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b727f855.js"
+  ]
+}
